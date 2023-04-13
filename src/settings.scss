@@ -1,0 +1,5 @@
+@use "vuetify/settings" with (
+  $text-field-affix-color: red,
+  $text-field-border-radius: 20px,
+  $alert-border-opacity: 1,
+);
